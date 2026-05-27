@@ -39,5 +39,6 @@ PLiCy「カード使いのケイシー３」にて、ブラウザ版の [テス�
  ・　全プラグインのバージョンアップ（主にHDLayout.js対策）と [カード簡易入力プラグイン](https://github.com/nolimits-tukool/NLM_CardEasyInput) の新規追加  
  ・　座標入力コモンイベント追加（ゲーム内容には大きな変更はありません）
 
+### 本サンプルをHD画面ノンフィールド型に改良した [「カードゲームMZサンプル3R」](https://github.com/nolimits-tukool/CardGameMZSample3R) も公開中です
 
 ## [リポジトリ一覧へ](https://github.com/nolimits-tukool?tab=repositories)
