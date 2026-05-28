@@ -30,7 +30,8 @@ PLiCy「カード使いのケイシー３」にて、ブラウザ版の [テス�
 
 ### 「カードゲームMZサンプル３」（5つのプラグイン入り）を [download](https://github.com/nolimits-tukool/CardGameMZSample3/raw/refs/heads/main/CardMZSample3.zip)  
 　　RPGツクールMZ専用プロジェクトです  
-　　download解凍後は「readme.txt」に利用方法が書いてあります
+　　download解凍後は「readme.txt」に利用方法が書いてあります  
+　　本プロジェクトのデータを土台として改変し、自作ゲーム作品を完成させるのも問題ありません
 
 ---
 
